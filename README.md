@@ -1,42 +1,29 @@
-# Dev Landing Page
+# My first landing page !
 
-Minimal landing page for developers.
+*Hi, I'm Olivia Fantinel, and I'm learning how to code !*
 
-Developers don't talk much. Their code does all the talking. So here's a minimal landing page for developers.
+>Let's fill the world with love through code !
 
-## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
+I'm doing this landing page to learn Markdown, HTML and CSS. I'm using a template right now, but I would like to personnalize it later.<br/>
 
-I wanted a dev landing page to showcase everything I do online and I wanted it to be minimal and right to the point rather beautiful and hefty. And I think most of the devs out there would want the same.
+I would like to use Markdown efficiently, so I'm using this README as a sandbox.
 
-So I sat down one night and created this **Dev Landing Page**. Feel free to fork, clone, play around and make this your own.
+## Let's use some markdown !
 
-## Themes
+I'll describe what my landing page will look like and my different ideas.
 
-Dev Landing Page comes in 9 **material themes**.
+* **Links to social medias**
+* **Stylizing**
+    * I would like to make a *cute* vibe, but still professionnal
+    * white, light pink and light blue
+    * Tahoma or helvetica are both good fonts
+* **Little animations**
+* **Who am I, what am I coding, etc**
 
-![9 Material Themes](https://image.ibb.co/jJVKCn/dev_landing_page_themes.jpg)
+## Thanks for reading !
 
-If none of these themes fit within your taste, it's quite easy to customize and create your own too. 
+I'm trying to figure things by myself, but many people are helping me, and if you are reading this right now, you are probably one of those !
 
-## GitHub Pages
+**Thank you !**
 
-GitHub makes it easy to create personal websites. Follow this link - [GitHub Pages](https://pages.github.com/) to know how or follow the steps below.
-
-If you already have a GitHub profile (obviously)
-
-* Create a new repo with the name `{username}.github.io`
-* Clone/Fork this repo and copy the files to your newly created repo
-* Customize your name, links and everything else for your landing page
-* `git push`
-
-Voila! Your site should be live at `https://{username}.github.io`
-
-Here's my **Dev Landing Page** - [Dinesh Pandiyan - portfolio v1](https://portfoliov1.dineshpandiyan.com)
-
-### Custom Domain
-
-If you want to make your new landing page available under a domain like `{username}.com` you can get started here - [Setting up a custom domain](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/).
-
-## License
-
-MIT © Dinesh Pandiyan
+I wouldn't be able to do all those things without your help, I'm really grateful to you.
