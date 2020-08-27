@@ -31,3 +31,7 @@ I'm trying to figure things by myself, but many people are helping me, and if yo
 **Thank you !**
 
 I wouldn't be able to do all those things without your help, I'm really grateful to you.
+
+![A bug ?](./ressources/bee.jpg)
+
+>Howdy, I'm a bug. I shouldn't bee in your code, try to rollback to a previous commit.
