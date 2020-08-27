@@ -1,16 +1,16 @@
 /* Theme */
 
 main {
-	background: #E5FDFF;
-	color: #FFD6FD;
+	background: #CCEFFF;
+	color: #4B6382;
 }
 
 .icons-social a {
-	color: #FFD6FD;
+	color: #4B6382;
 }
 
 .icons-social a svg path{
-	fill: #FFD6FD;
+	fill: #4B6382;
 }
 /* 
     E5FDFF = bleu clair, 
