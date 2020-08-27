@@ -4,9 +4,13 @@
 
 >Let's fill the world with love through code !
 
+*note : this is a temporary catchphrase, I'll find a better one
+
 I'm doing this landing page to learn Markdown, HTML and CSS. I'm using a template right now, but I would like to personnalize it later.<br/>
 
 I would like to use Markdown efficiently, so I'm using this README as a sandbox.
+
+![Work in progress sign](./ressources/working.jpg)
 
 ## Let's use some markdown !
 

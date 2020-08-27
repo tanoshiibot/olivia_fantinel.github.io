@@ -1,14 +1,21 @@
 /* Theme */
 
 main {
-	background: #303F9F;
-	color: #FAFAFA;
+	background: #E5FDFF;
+	color: #FFD6FD;
 }
 
 .icons-social a {
-	color: #FAFAFA;
+	color: #FFD6FD;
 }
 
 .icons-social a svg path{
-	fill: #FAFAFA;
+	fill: #FFD6FD;
 }
+/* 
+    E5FDFF = bleu clair, 
+    F4FEFF = bleu très clair, 
+    FFD6FD = rose très clair, 
+    CCEFFF = bleu plus foncé, 
+    FFFFFF = blanc 
+*/
